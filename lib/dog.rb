@@ -1,7 +1,6 @@
 # dog.rb
 class Dog 
-  
-end
+  def lassie = ()
 
 lassie = Dog.new 
 lassie.name = "Lassie"
